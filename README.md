@@ -1,2 +1,4 @@
 # space-shooter
-the first game maker tutorial
+the ['MAKE YOUR OWN ARCADE SPACE SHOOTER'](https://gamemaker.io/en/tutorials/make-arcade-space-shooter) game tutorial.
+
+MAKE YOUR OWN ARCADE SPACE SHOOTER

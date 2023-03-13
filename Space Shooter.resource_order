@@ -1,0 +1,25 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"Fonts","order":6,"path":"folders/Fonts.yy",},
+    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
+    {"name":"Objects","order":8,"path":"folders/Objects.yy",},
+    {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
+    {"name":"Animation Curves","order":10,"path":"folders/Animation Curves.yy",},
+    {"name":"Notes","order":11,"path":"folders/Notes.yy",},
+    {"name":"Extensions","order":12,"path":"folders/Extensions.yy",},
+    {"name":"Particle Systems","order":13,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_player","order":3,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_rock","order":2,"path":"objects/obj_rock/obj_rock.yy",},
+    {"name":"spr_rock_big","order":1,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_game","order":3,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"spr_rock_small","order":2,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+  ],
+}
